@@ -29,8 +29,8 @@ form_fields:
   - input_type: checkbox
     name: consent
     label: >-
-      I understand that this form is storing my submitted information so I can
-      be contacted.
+      En cochant cette case, je consens à transmettre les informations saisies
+      sur ce formulaire et, éventuellement, à être recontacté(e).
 submit_label: Envoyer
 template: contact
 ---
