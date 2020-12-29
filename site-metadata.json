@@ -5,7 +5,6 @@
         "tagline": "Minimal and clean blog theme",
         "logo_img": "images/Logo.png",
         "logo_img_alt": "Logo Morselli",
-        "background_img": "images/header-bg.jpg",
         "has_nav": true,
         "nav_links": [
             {
