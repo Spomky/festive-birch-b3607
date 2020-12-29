@@ -35,4 +35,4 @@ submit_label: Send Message
 template: contact
 ---
 
-To get in touch fill the form below.
+Remplissez le formulaire pour me contacter.
