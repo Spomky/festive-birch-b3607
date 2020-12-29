@@ -19,7 +19,7 @@ form_fields:
     label: Sujet
     default_value: Choisissez
     options:
-      - Error on the site
+      - Erreur sur le site
       - Sponsorship
       - Other
   - input_type: textarea
