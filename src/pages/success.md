@@ -3,6 +3,6 @@ title: Merci !
 template: page
 ---
 
-Thank you for contacting me! I will get back in touch with you soon.
+Merci pour votre message ! Je fais mon possible pour vous répondre le plus rapidement possible.
 
-**Have a great day!**
+**Passez d'agréables moments en attendant !**
