@@ -51,7 +51,8 @@
                 "url": "https://github.com/Spomky",
                 "style": "icon",
                 "icon_class": "github",
-                "new_window": true
+                "new_window": true,
+                "no_follow": true
             },
             {
                 "label": "LinkedIn",
