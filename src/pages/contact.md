@@ -21,7 +21,7 @@ form_fields:
     options:
       - Erreur sur le site
       - Parrainage / Partenariat
-      - Other
+      - Autre
   - input_type: textarea
     name: message
     label: Message
