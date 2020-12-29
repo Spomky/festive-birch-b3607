@@ -27,7 +27,7 @@
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "twitter.com/FlorentMorselli",
+                "url": "https://twitter.com/FlorentMorselli",
                 "style": "icon",
                 "icon_class": "twitter",
                 "new_window": true,
