@@ -61,13 +61,6 @@
                 "icon_class": "linkedin",
                 "new_window": true,
                 "no_follow": true
-            },
-            {
-                "label": "DEV",
-                "url": "https://dev.to/",
-                "style": "icon",
-                "icon_class": "dev",
-                "new_window": true
             }
         ]
     },
