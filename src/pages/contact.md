@@ -20,7 +20,7 @@ form_fields:
     default_value: Choisissez
     options:
       - Erreur sur le site
-      - 'Parrainage : Partenariat'
+      - Parrainage / Partenariat
       - Other
   - input_type: textarea
     name: message
