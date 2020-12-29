@@ -1,6 +1,6 @@
 ---
 title: Qui suis-je
-subtitle: This is a short page about me and my work
+subtitle: ''
 template: page
 ---
 
